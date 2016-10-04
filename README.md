@@ -21,3 +21,9 @@ Tutorials to learnning
 # WAY 2: NOT USING METHOD WITH
 - ![alt tag](https://github.com/danisluis1/PHP-Frame-Work-Laravel/blob/master/Lecture2/l.png)
 - ![alt tag](https://github.com/danisluis1/PHP-Frame-Work-Laravel/blob/master/Lecture2/m.png)
+# LECTURE3 FrameWork Laravel 5
+# DIVIDER OR SEPRATE GUI
+- ![alt tag](https://github.com/danisluis1/PHP-Frame-Work-Laravel/blob/master/Lecture3/a.png)
+- ![alt tag](https://github.com/danisluis1/PHP-Frame-Work-Laravel/blob/master/Lecture3/b.png)
+- ![alt tag](https://github.com/danisluis1/PHP-Frame-Work-Laravel/blob/master/Lecture3/c.png)
+- ![alt tag](https://github.com/danisluis1/PHP-Frame-Work-Laravel/blob/master/Lecture3/d.png)
