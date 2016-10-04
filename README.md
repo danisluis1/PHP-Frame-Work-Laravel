@@ -18,9 +18,11 @@ Tutorials to learnning
 - Two Data
 - ![alt tag](https://github.com/danisluis1/PHP-Frame-Work-Laravel/blob/master/Lecture2/g.png)
 - ![alt tag](https://github.com/danisluis1/PHP-Frame-Work-Laravel/blob/master/Lecture2/h.png)
+
 # WAY 2: NOT USING METHOD WITH
 - ![alt tag](https://github.com/danisluis1/PHP-Frame-Work-Laravel/blob/master/Lecture2/l.png)
 - ![alt tag](https://github.com/danisluis1/PHP-Frame-Work-Laravel/blob/master/Lecture2/m.png)
+
 # LECTURE3 FrameWork Laravel 5
 # DIVIDER OR SEPRATE GUI
 - ![alt tag](https://github.com/danisluis1/PHP-Frame-Work-Laravel/blob/master/Lecture3/a.png)
